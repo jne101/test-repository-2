@@ -1,0 +1,108 @@
+.card {
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-left: 8px;
+  margin: 0 auto;
+}
+
+form {
+  margin: 0 auto;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  background: blue;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.headline {
+  text-align: center;
+  font-size: 34px;
+  font-family: "Sono", sans-serif;
+  line-height: 44px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+p {
+  text-align: center;
+  font-size: 23px;
+  font-family: "Sono", sans-serif;
+  padding-top: 5px;
+}
+
+.main-icon {
+  position: relative;
+  left: 20px;
+  top: 0px;
+}
+
+.main-temp {
+  font-size: 55px;
+  position: relative;
+  left: 45px;
+  bottom: 0px;
+}
+
+.main-degrees {
+  position: relative;
+  left: 40px;
+}
+
+.maindatetime {
+  list-style: none;
+  position: relative;
+  left: 148px;
+  bottom: 35px;
+}
+
+.humidityetc {
+  position: relative;
+  list-style: none;
+  top: 18px;
+  right: 110px;
+  bottom: 40px;
+}
+
+.weather-column-one {
+  position: relative;
+  left: 20px;
+  top: 20px;
+  bottom: 22px;
+}
+
+.weather-column-two {
+  position: relative;
+  left: 20px;
+  top: 20px;
+  bottom: 22px;
+}
+
+.weather-column-three {
+  position: relative;
+  left: 14px;
+  top: 20px;
+  bottom: 22px;
+}
+
+.weather-column-four {
+  position: relative;
+  left: 22px;
+  top: 20px;
+  bottom: 22px;
+}
+
+.day-small {
+  font-size: 11px;
+  position: relative;
+  left: 10px;
+}
+
+.temp-small {
+  font-size: 11px;
+  position: relative;
+  left: 15px;
+}
